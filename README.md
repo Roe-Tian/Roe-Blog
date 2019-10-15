@@ -10,7 +10,7 @@
 
 [谈谈Mock](https://github.com/Roe-Tian/roe-article/issues/6)
 
-[5个JS不良编码习惯](https://github.com/Roe-Tian/roe-article/issues/7)
+[5个不良的JS编码习惯](https://github.com/Roe-Tian/roe-article/issues/7)
 
 # 性能优化篇
 
