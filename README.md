@@ -2,7 +2,7 @@
 
 # css篇
 
-[26个常用易忘CSS小技巧【持续收集中...】](https://github.com/Roe-Tian/roe-article/issues/8)
+[27个常用易忘CSS小技巧/知识点【持续收集中...】](https://github.com/Roe-Tian/roe-article/issues/8)
 
 [Retina屏下的图片优化](https://github.com/Roe-Tian/roe-article/issues/4)
 
