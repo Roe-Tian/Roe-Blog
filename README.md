@@ -6,11 +6,13 @@
 
 [Retina屏下的图片优化](https://github.com/Roe-Tian/roe-article/issues/4)
 
-[谈谈PostCSS](https://github.com/Roe-Tian/roe-article/issues/5)
+[浅谈PostCSS](https://github.com/Roe-Tian/roe-article/issues/5)
 
 # js篇
 
-[谈谈Mock](https://github.com/Roe-Tian/roe-article/issues/6)
+[浅谈Mock](https://github.com/Roe-Tian/roe-article/issues/6)
+
+[浅谈RequireJs](https://github.com/Roe-Tian/roe-article/issues/10)
 
 [5个不良的JS编码习惯](https://github.com/Roe-Tian/roe-article/issues/7)
 
