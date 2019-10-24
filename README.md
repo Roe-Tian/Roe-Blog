@@ -4,6 +4,8 @@
 
 [27个常用易忘CSS小技巧/知识点【持续收集中...】](https://github.com/Roe-Tian/roe-article/issues/8)
 
+[CSS属性之pointer-events](https://github.com/Roe-Tian/roe-article/issues/11)
+
 [Retina屏下的图片优化](https://github.com/Roe-Tian/roe-article/issues/4)
 
 [浅谈PostCSS](https://github.com/Roe-Tian/roe-article/issues/5)
